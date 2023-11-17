@@ -7,4 +7,4 @@ Find out more about current research projects at KBR: https://www.kbr.be/en/rese
 Open Source projects together with partnering institutions can be found here
 
 * The **KBR Data Science Lab** together with the Free University of Brussels (VUB): https://github.com/DSL-KBR
-* The Belgian authority file and metadata platform **MetaBelgica** together with other Belgian Federal Scientific Institutes: _coming soon_
+* The Belgian authority file and metadata platform **MetaBelgica** together with other Belgian Federal Scientific Institutes: https://github.com/metabelgica
